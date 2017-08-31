@@ -1,0 +1,7 @@
+#!/bin/bash -eu
+
+cd $(dirname "${0}")/..
+
+FILE=package_list
+apm list -bi > ${FILE}
+sed -i '' 's/@.*//' ${FILE}

@@ -7,5 +7,9 @@
     ]
   "exception-reporting":
     userId: "65175039-b2ff-476f-8c0d-b71b9f33c64c"
+  "rubocop-auto-correct":
+    autoRun: true
+    correctFile: true
+    rubocopCommandPath: "bundle exec rubocop"
   welcome:
     showOnStartup: false

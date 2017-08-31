@@ -5,6 +5,9 @@
       "one-light-ui"
       "one-light-syntax"
     ]
+  editor:
+    fontFamily: "Ricty Diminished"
+    fontSize: 15
   "exception-reporting":
     userId: "65175039-b2ff-476f-8c0d-b71b9f33c64c"
   "rubocop-auto-correct":

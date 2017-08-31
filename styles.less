@@ -30,3 +30,8 @@ atom-text-editor {
 atom-text-editor .cursor {
   // border-color: red;
 }
+
+// カーソルの点滅を無効にする
+atom-text-editor.is-focused::shadow .cursors.blink-off .cursor {
+  opacity: 1;
+}

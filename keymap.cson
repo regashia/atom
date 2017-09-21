@@ -1,2 +1,4 @@
 'atom-workspace atom-text-editor':
   'ctrl-a': 'editor:move-to-first-character-of-line'
+'atom-workspace':
+  'ctrl-x ctrl-c': 'window:close'

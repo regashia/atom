@@ -1,4 +1,6 @@
 "*":
+  "atomic-emacs":
+    yankFromClipboard: true
   core:
     telemetryConsent: "no"
     themes: [

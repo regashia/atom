@@ -2,6 +2,9 @@
   "atomic-emacs":
     yankFromClipboard: true
   core:
+    disabledPackages: [
+      "whitespace"
+    ]
     telemetryConsent: "no"
     themes: [
       "one-light-ui"

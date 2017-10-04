@@ -2,3 +2,5 @@
   'ctrl-a': 'editor:move-to-first-character-of-line'
 'atom-workspace':
   'ctrl-x ctrl-c': 'window:close'
+'.platform-darwin':
+  'ctrl-x g': 'git-plus:menu'

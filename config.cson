@@ -12,6 +12,12 @@
     fontSize: 15
   "exception-reporting":
     userId: "65175039-b2ff-476f-8c0d-b71b9f33c64c"
+  "platformio-ide-terminal":
+    style:
+      theme: "inverse"
+    toggles:
+      autoClose: true
+      cursorBlink: false
   "rubocop-auto-correct":
     autoRun: true
     correctFile: true

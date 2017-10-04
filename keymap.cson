@@ -5,6 +5,7 @@
 '.platform-darwin':
   'ctrl-x g': 'git-plus:menu'
 'body':
+  'ctrl-?': 'core:redo'
   'ctrl-x n': 'pane:show-next-item'
   'ctrl-x p': 'pane:show-previous-item'
 'atom-text-editor:not([mini])':

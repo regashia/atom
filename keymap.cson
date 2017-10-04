@@ -4,3 +4,6 @@
   'ctrl-x ctrl-c': 'window:close'
 '.platform-darwin':
   'ctrl-x g': 'git-plus:menu'
+'body':
+  'ctrl-x n': 'pane:show-next-item'
+  'ctrl-x p': 'pane:show-previous-item'

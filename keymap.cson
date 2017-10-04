@@ -10,3 +10,5 @@
   'ctrl-x p': 'pane:show-previous-item'
 'atom-text-editor:not([mini])':
   'ctrl-i': 'editor:auto-indent'
+'body atom-workspace':
+  'ctrl-x 0': 'core:close'
